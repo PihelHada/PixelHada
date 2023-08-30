@@ -10,7 +10,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/catalina-jorquera-espinoza/)
   
-PixelHadaDesign@gmail.com
+- PixelHadaDesign@gmail.com
 
 
 
