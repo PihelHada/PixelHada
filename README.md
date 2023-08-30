@@ -6,12 +6,12 @@
 - **Logo Creation**: Developing memorable brand identities.
 - **Web Design**: Creating and designing adaptive and appealing web pages.
 
----
+--
 
 ### 📫 How to reach me?
 
 - [LinkedIn](https://www.linkedin.com/in/catalina-jorquera-espinoza/)
-- Email: pixelhadadesign@gmail.com
+PixelHadaDesign@gmail.com
 
 
 
